@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Glossify</id>
+    <version>1.0.0</version>
+    <title>Glossify</title>
+    <authors>Anju</authors>
+    <license type="file">LICENSE</license>
+    <licenseUrl>https://aka.ms/deprecateLicenseUrl</licenseUrl>
+    <icon>icon_glossify.png</icon>
+    <readme>README.md</readme>
+    <description>Glossify adds a glossary picker to the Umbraco RTE, allowing editors to link selected text to glossary nodes, highlight the linked content, and display definition tooltips on the front end.</description>
+    <tags>umbraco plugin package</tags>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Umbraco.Cms.Web.BackOffice" version="13.12.0" exclude="Build,Analyzers" />
+        <dependency id="Umbraco.Cms.Web.Website" version="13.12.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Projects\Packages\Glossify\Glossify\bin\Debug\net8.0\Phases.Umbraco.Glossify.dll" target="lib\net8.0\Phases.Umbraco.Glossify.dll" />
+    <file src="D:\Projects\Packages\Glossify\Glossify\App_Plugins\Glossify\glossary-editor.css" target=".\App_Plugins\Glossify\glossary-editor.css" />
+    <file src="D:\Projects\Packages\Glossify\Glossify\App_Plugins\Glossify\glossary-editor.js" target=".\App_Plugins\Glossify\glossary-editor.js" />
+    <file src="D:\Projects\Packages\Glossify\Glossify\App_Plugins\Glossify\package.manifest" target=".\App_Plugins\Glossify\package.manifest" />
+    <file src="D:\Projects\Packages\Glossify\Glossify\App_Plugins\Glossify\plugin.min.js" target=".\App_Plugins\Glossify\plugin.min.js" />
+    <file src="D:\Projects\Packages\Glossify\Glossify\icon_glossify.ico" target=".\icon_glossify.ico" />
+    <file src="D:\Projects\Packages\Glossify\Glossify\buildTransitive\Glossify.targets" target="buildTransitive\Glossify.targets" />
+    <file src="D:\Projects\Packages\Glossify\Icon\icon_glossify.png" target="\icon_glossify.png" />
+    <file src="D:\Projects\Packages\Glossify\README.md" target="\README.md" />
+    <file src="C:\Users\Anjumol.Babu\Downloads\LICENSE" target="\LICENSE" />
+  </files>
+</package>

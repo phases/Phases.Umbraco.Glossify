@@ -1,0 +1,11 @@
+{
+  "name": "Glossary Link",
+  "version": "1.0.0",
+  "javascript": [
+    "~/App_Plugins/Glossify/glossary-editor.js",
+    "~/App_Plugins/Glossify/plugin.min.js"
+  ],
+  "css": [
+    "~/App_Plugins/Glossify/glossary-editor.css"
+  ]
+}

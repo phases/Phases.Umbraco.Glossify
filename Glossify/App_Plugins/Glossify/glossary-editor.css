@@ -1,0 +1,53 @@
+﻿/* Highlight glossary terms in RTE editor */
+.glossary-term {
+    background-color: #fff3cd;
+    border-bottom: 2px dotted #ffc107;
+    padding: 1px 3px;
+    border-radius: 3px;
+    cursor: help;
+}
+
+    .glossary-term:hover {
+        background-color: #ffe69c;
+    }
+
+
+/* Highlight glossary terms in RTE editor */
+.glossary-term {
+    position: relative;
+    border-bottom: 2px dotted #007bff;
+    cursor: help;
+    display: inline;
+    color: inherit;
+    text-decoration: none;
+}
+
+.glossary-tooltip {
+    position: absolute;
+    bottom: 100%;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #333;
+    color: #fff;
+    padding: 10px 14px;
+    border-radius: 6px;
+    white-space: normal;
+    max-width: 300px;
+    min-width: 150px;
+    z-index: 9999;
+    font-size: 14px;
+    line-height: 1.4;
+    margin-bottom: 8px;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.3);
+    text-align: left;
+}
+
+    .glossary-tooltip::after {
+        content: '';
+        position: absolute;
+        top: 100%;
+        left: 50%;
+        transform: translateX(-50%);
+        border: 8px solid transparent;
+        border-top-color: #333;
+    }
