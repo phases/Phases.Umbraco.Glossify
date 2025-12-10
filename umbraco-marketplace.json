@@ -1,0 +1,56 @@
+{
+  "$schema": "https://marketplace.umbraco.com/umbraco-marketplace-schema.json",
+  "AuthorDetails": {
+    "Name": "Phases",
+    "Description": "Phases - We create digital efficiency - Web, Podio, Integrations",
+    "Url": "https://www.phases.io/",
+    "ImageUrl": "https://github.com/phases.png",
+    "SyncContributorsFromRepository": true
+  },
+  "Category": "Editor Tools",
+  "Description": "Phases.Umbraco.Glossify is an Umbraco package that adds a glossary picker to the Umbraco RTE, allowing editors to link selected text to glossary nodes, highlight the linked content, and display definition tooltips on the front end.",
+  "DocumentationUrl": "https://github.com/phases/Phases.Umbraco.Glossify/blob/main/README.md",
+  "LicenseTypes": [ "Free" ],
+  "IssueTrackerUrl": "https://github.com/phases/Phases.Umbraco.Glossify/issues",
+  "PackageType": "Package",
+  "RelatedPackages": [
+    {
+      "PackageId": "",
+      "Description": ""
+    }
+  ],
+  "Screenshots": [
+    {
+      "ImageUrl": "https://raw.githubusercontent.com/phases/Phases.Umbraco.Glossify/blob/main/screenshots/icon_glossify.png",
+      "Caption": "Icons"
+    },
+    {
+      "ImageUrl": "https://raw.githubusercontent.com/phases/Phases.Umbraco.Glossify/blob/main/screenshots/rte-glossary-options.png",
+      "Caption": "Popup Box"
+    },
+    {
+      "ImageUrl": "https://raw.githubusercontent.com/phases/Phases.Umbraco.Glossify/blob/main/screenshots/rte-glossary-options.png",
+      "Caption": "Select The History Content"
+    }
+  ],
+  "Tags": [ "umbraco", "editor", "node", "backoffice" ],
+  "VersionSpecificPackageIds": [
+    {
+      "UmbracoMajorVersion": 10,
+      "PackageId": "Phases.Umbraco.Glossify"
+    },
+    {
+      "UmbracoMajorVersion": 11,
+      "PackageId": "Phases.Umbraco.Glossify"
+    },
+    {
+      "UmbracoMajorVersion": 12,
+      "PackageId": "Phases.Umbraco.Glossify"
+    },
+    {
+      "UmbracoMajorVersion": 13,
+      "PackageId": "Phases.Umbraco.Glossify"
+    }
+  ],
+  "VideoUrl": ""
+}
