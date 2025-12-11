@@ -21,16 +21,16 @@
   ],
   "Screenshots": [
     {
-      "ImageUrl": "https://raw.githubusercontent.com/phases/Phases.Umbraco.Glossify/blob/main/screenshots/icon_glossify.png",
+      "ImageUrl": "https://github.com/phases/Phases.Umbraco.Glossify/blob/main/Icon/icon_glossify.png",
       "Caption": "Icons"
     },
     {
-      "ImageUrl": "https://raw.githubusercontent.com/phases/Phases.Umbraco.Glossify/blob/main/screenshots/rte-glossary-options.png",
-      "Caption": "Popup Box"
+      "ImageUrl": "https://github.com/phases/Phases.Umbraco.Glossify/blob/main/screenshots/rte-glossary-options.png",
+      "Caption": "RTE Glossary Option"
     },
     {
-      "ImageUrl": "https://raw.githubusercontent.com/phases/Phases.Umbraco.Glossify/blob/main/screenshots/rte-glossary-options.png",
-      "Caption": "Select The History Content"
+      "ImageUrl": "https://github.com/phases/Phases.Umbraco.Glossify/blob/main/screenshots/tool-tip-defition-name.png",
+      "Caption": "Tool Tip Field Name"
     }
   ],
   "Tags": [ "umbraco", "editor", "node", "backoffice" ],

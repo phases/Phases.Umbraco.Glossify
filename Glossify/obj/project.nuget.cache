@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QndcZef8lkE=",
+  "dgSpecHash": "Xamu5YUMUkM=",
   "success": true,
-  "projectFilePath": "D:\\Projects\\Packages\\Glossify\\Glossify\\Phases.Umbraco.Glossify.csproj",
+  "projectFilePath": "D:\\Projects\\Packages\\GitHub.Umbraco.Glossify\\Phases.Umbraco.Glossify\\Glossify\\Phases.Umbraco.Glossify.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Anjumol.Babu\\.nuget\\packages\\asp.versioning.abstractions\\7.0.0\\asp.versioning.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\Anjumol.Babu\\.nuget\\packages\\asp.versioning.http\\7.1.0\\asp.versioning.http.7.1.0.nupkg.sha512",

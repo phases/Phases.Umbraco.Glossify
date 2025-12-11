@@ -17,7 +17,7 @@ using System.Reflection;
     "cted text to glossary nodes, highlight the linked content, and display definitio" +
     "n tooltips on the front end.")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.1.3")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.1.3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.1.3+477be4fec932c5fe04f051f6462d40d598e47246")]
 [assembly: System.Reflection.AssemblyProductAttribute("Phases.Umbraco.Glossify")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Phases.Umbraco.Glossify")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.1.1")]
